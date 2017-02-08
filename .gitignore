@@ -22,6 +22,7 @@
 *.tar
 *.zip
 *.framework
+*.aar
 
 # Logs and databases #
 ######################
@@ -43,6 +44,6 @@ bin/
 Library/
 obj/
 Temp/
-iOS*/
+iOS_Proj*/
 apk/
 Bk/
