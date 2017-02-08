@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{55E675B2-CF59-1C25-3977-63764A097467}") = "ExampleAdManager", "Assembly-CSharp-firstpass.csproj", "{306D5DA1-4003-5C2D-3F2B-8965500D9454}"
+EndProject
+Project("{55E675B2-CF59-1C25-3977-63764A097467}") = "ExampleAdManager", "Assembly-CSharp.csproj", "{08BFD723-DA5A-ABAD-10E6-DF18A1DCF076}"
+EndProject
+Project("{55E675B2-CF59-1C25-3977-63764A097467}") = "ExampleAdManager", "Assembly-CSharp-Editor.csproj", "{A36C7D1B-29D7-6BC9-BB12-AF4C82569EE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{306D5DA1-4003-5C2D-3F2B-8965500D9454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306D5DA1-4003-5C2D-3F2B-8965500D9454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306D5DA1-4003-5C2D-3F2B-8965500D9454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306D5DA1-4003-5C2D-3F2B-8965500D9454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08BFD723-DA5A-ABAD-10E6-DF18A1DCF076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08BFD723-DA5A-ABAD-10E6-DF18A1DCF076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08BFD723-DA5A-ABAD-10E6-DF18A1DCF076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08BFD723-DA5A-ABAD-10E6-DF18A1DCF076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A36C7D1B-29D7-6BC9-BB12-AF4C82569EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36C7D1B-29D7-6BC9-BB12-AF4C82569EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36C7D1B-29D7-6BC9-BB12-AF4C82569EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36C7D1B-29D7-6BC9-BB12-AF4C82569EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
