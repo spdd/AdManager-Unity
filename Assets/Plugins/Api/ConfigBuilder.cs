@@ -92,9 +92,9 @@ namespace If3games.Core.Internal.Ads
         }
 
         // AdColony android
-        private static string ADCOLONY_ANDROID_MARKET_TYPE = "version:1.0,store:google";
+        //private static string ADCOLONY_ANDROID_MARKET_TYPE = "version:1.0,store:google";
         // Adcolony iOS
-        private static string ADCOLONY_IOS_MARKET_TYPE = "version:1.0,store:apple";
+        //private static string ADCOLONY_IOS_MARKET_TYPE = "version:1.0,store:apple";
 
         private static string ADCOLONY_APP_ID
         {

@@ -1,40 +1,14 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AdManager/Editor/AdManagerSettings.cs">
+﻿<Properties StartupConfiguration="{A36C7D1B-29D7-6BC9-BB12-AF4C82569EE2}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AdManager/Editor/PostprocessBuildPlayer.cs">
     <Files>
-      <File FileName="Assets/Scripts/TestAds.cs" Line="31" Column="4" />
-      <File FileName="Assets/AdManager/Editor/AdManagerSettings.cs" Line="194" Column="24" />
+      <File FileName="Assets/AdManager/Editor/AdManagerSettings.cs" Line="28" Column="1" />
       <File FileName="Assets/AdManager/Editor/PostprocessBuildPlayer.cs" Line="27" Column="45" />
-      <File FileName="Assets/Plugins/Classes/AdManager.cs" Line="120" Column="40" />
-      <File FileName="Assets/Plugins/Classes/AdsSettings.cs" Line="40" Column="17" />
-      <File FileName="Assets/Plugins/Classes/ConfigBuilder.cs" Line="269" Column="18" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="ExampleAdManager" expanded="True">
-            <Node name="Assembly-CSharp" expanded="True">
-              <Node name="Scripts" expanded="True" />
-            </Node>
-            <Node name="Assembly-CSharp-Editor" expanded="True">
-              <Node name="AdManager" expanded="True">
-                <Node name="Editor" expanded="True">
-                  <Node name="AdManagerSettings.cs" selected="True" />
-                </Node>
-              </Node>
-            </Node>
-            <Node name="Assembly-CSharp-firstpass" expanded="True">
-              <Node name="Plugins" expanded="True">
-                <Node name="Classes" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

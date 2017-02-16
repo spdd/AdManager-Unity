@@ -174,7 +174,7 @@ namespace If3games.Core.Editor
         private int platfornmIndex = 0;
         void GUIAds ()
         {
-			string dirPath = "Assets/AdManager/Resources";
+			string dirPath = "Assets/Resources/AdManager";
 			if (!Directory.Exists(dirPath))
 				Directory.CreateDirectory(dirPath);
 
