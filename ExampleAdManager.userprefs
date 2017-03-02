@@ -1,8 +1,12 @@
-﻿<Properties StartupConfiguration="{A36C7D1B-29D7-6BC9-BB12-AF4C82569EE2}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AdManager/Editor/PostprocessBuildPlayer.cs">
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/Api/Platforms/Android/AndroidAdsClient.cs">
     <Files>
       <File FileName="Assets/AdManager/Editor/AdManagerSettings.cs" Line="28" Column="1" />
-      <File FileName="Assets/AdManager/Editor/PostprocessBuildPlayer.cs" Line="27" Column="45" />
+      <File FileName="Assets/AdManager/Editor/PostprocessBuildPlayer.cs" Line="35" Column="18" />
+      <File FileName="Assets/Plugins/Api/Platforms/Android/AndroidBannerCallbacks.cs" Line="34" Column="40" />
+      <File FileName="Assets/Plugins/Api/Platforms/Android/AndroidInterstitialCallbacks.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/Api/Platforms/Android/AndroidVideoCallbacks.cs" Line="19" Column="38" />
+      <File FileName="Assets/Plugins/Api/Platforms/Android/AndroidAdsClient.cs" Line="24" Column="29" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,5 +14,4 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
